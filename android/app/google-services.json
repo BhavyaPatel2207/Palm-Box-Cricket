@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "68429955268",
+    "project_id": "palm-box-cricket",
+    "storage_bucket": "palm-box-cricket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68429955268:android:42c30e7e36e7d07ee40991",
+        "android_client_info": {
+          "package_name": "com.pbc.my_box_cricket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68429955268-m0n01itec2rktp6m7mnrhj9g8gjpoi66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pbc.my_box_cricket",
+            "certificate_hash": "4df240fcfe5a10f77e9183e345c8c95d68bc0c24"
+          }
+        },
+        {
+          "client_id": "68429955268-qms6tlqisvbda5hrsq9ge7kinpq2e3fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRpl5xtyUlt8RM69p7iCohwEX6Weh6gug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68429955268-qms6tlqisvbda5hrsq9ge7kinpq2e3fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
